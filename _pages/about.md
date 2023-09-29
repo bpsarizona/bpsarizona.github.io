@@ -10,7 +10,7 @@ share: true
 
 
 
-![image alt >](/assets/images/logo.jpg) djlkfhjsdlfhlksh
+![image alt >](/assets/images/logo.jpg) Logo of BPS
 ## Notable Features
 
 - Compatible with Jekyll 3.x and GitHub Pages
